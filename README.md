@@ -1,2 +1,2 @@
 # Dune-Analytics-Aragon-Growth-Analysis
-Analysis of Aragon data, queried from Dune.xyz using SQL
+SQL queries for Aragon DAO data using Dune.xyz
